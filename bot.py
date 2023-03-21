@@ -5,7 +5,7 @@ from config import *
 from commands import *
 # створюємо екземпляр бота з токеном, який отримано від BotFather
 bot = telebot.TeleBot(token['TOKEN'])
-#openai.api_key = "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"
+#openai.api_key = "SECRET"
 #gpt_model = "code-davinci-002"
 
 #def generate_response(prompt):
