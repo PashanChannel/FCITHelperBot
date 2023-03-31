@@ -1,2 +1,2 @@
-# FCITHelperBot
-Обов'язкові бібліотеки: telebot
+# FCITHelperBot-Dev
+Залежності: telebot
