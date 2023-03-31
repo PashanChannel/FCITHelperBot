@@ -1,2 +1,2 @@
 #Токен Телеграму
-token = {"TOKEN": "PASTE TOCKEN HERE"}
+token = {"TOKEN": "PASTE TOKEN HERE"}
