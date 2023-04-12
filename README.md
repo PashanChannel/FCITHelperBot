@@ -1,2 +1,2 @@
-# FCITHelperBot-Dev
+# FCITHelperBot
 Залежності: telebot
